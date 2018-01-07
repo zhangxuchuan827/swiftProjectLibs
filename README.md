@@ -17,6 +17,9 @@ swift工程中的三方库选择
 
 [SnapKit](https://github.com/SnapKit/SnapKit)
 
+## 输入框相关
+[IQKeyboardManagerSwift](https://github.com/hackiftekhar/IQKeyboardManager)
+
 ## 加载网络图片
 
 [Kingfisher](https://github.com/onevcat/Kingfisher)
